@@ -227,12 +227,5 @@ stchaind tx staking create-validator \
 
 # Stratos Türkiye Telegram grubu: [Stratos Türkiye](https://t.me/StratosTurkish)
 
-## Reach out to me
-
-<a href="https://twitter.com/Ruesandora0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zaferayan" height="30" width="40" /></a>
-<a href="https://medium.com/@ruesandora" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@zaferayan" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/RuesYouTube" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uc1vykhlufpaoghrwhjikrqg" height="30" width="40" /></a>
-
-<br />
 
 <img src="https://github-readme-stats.vercel.app/api?username=kebapTest&show_icons=true&theme=highcontrast" align="center" width="450" height="350" >
